@@ -1,9 +1,9 @@
 ### Привет 👋
-Меня зовут Алексей. Я python - разработчик. Моим основным направлением является разработка веб-приложений. На данный момент нахожусь в поиске команды для совместной работы.
+Меня зовут Алексей. Я python - разработчик. Моим основным направлением является разработка веб-приложений. На данный момент нахожусь в поиске команды для совместной работы и претендую на позицию Junior Python Developer.
 Коммуникабельный и ответственный, быстро усваиваю новую информацию.
 
 ### Мой стек технологий:
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=RoyalBlue"/>
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=4169E1"/> <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=FF4500"/>
 <!--
 **Vasiliev-Aleksey/Vasiliev-Aleksey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
