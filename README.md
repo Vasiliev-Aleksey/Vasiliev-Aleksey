@@ -3,7 +3,7 @@
 Коммуникабельный и ответственный, быстро усваиваю новую информацию.
 
 ### Мой стек технологий:
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=RoyalBlue"/>
 <!--
 **Vasiliev-Aleksey/Vasiliev-Aleksey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
