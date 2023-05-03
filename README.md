@@ -1,10 +1,10 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python"/>
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=yellow"/>
 <!--
 **Vasiliev-Aleksey/Vasiliev-Aleksey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-&logoColor=yellow
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
